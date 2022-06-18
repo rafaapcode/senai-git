@@ -27,7 +27,10 @@
 
  - git pull ( Atualiza o seu repositório local, com as modificações feitas no repositório remoto )
 
+
  - git remote add origin linkDoRespositório ( Configurar um repositório remoto )
+
+ - git remote -v ( Ver o repositório ) 
 
  - git config user.name ( Configurar o nome de usuário )
 
